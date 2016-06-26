@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "name": "@panstav/json-ajax",
-  "description": "The http://youmightnotneedjquery.com/ solution for DOM Ready callback",
+  "description": "A very simplistic ajax utility",
   "license": "MIT",
   "repository": {
     "type": "git",
